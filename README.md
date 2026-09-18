@@ -14,3 +14,18 @@ Each release carries:
 
 Nothing here is meant to be built; the source and the release workflow are
 in the private `fullsend-comms` repository.
+
+## License and responsibility
+
+Everything here is released under the MIT License (see [LICENSE](LICENSE)).
+It is provided as is, without warranty of any kind, and the authors accept
+no liability arising from its use.
+
+fullSend is self-hosted software. Whoever installs and runs a station is
+that station's operator: they control who can join, what is said and stored
+on it, and how long transcripts are kept, and they are responsible for
+running it lawfully where they are, including any consent needed to record
+or retain voice and text. The authors do not operate, monitor, or have
+access to stations run by others. A station's only outbound contact is the
+operator-triggered update check against this repository; nothing on a
+station is sent to the authors.
